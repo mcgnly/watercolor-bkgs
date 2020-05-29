@@ -620,3 +620,13 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+
+
+
+.background-paper {
+  background-image: url('./watercolor-paper.png');
+  /* backgroundPosition: 'center',
+  backgroundSize: 'cover',
+  backgroundRepeat: 'no-repeat' */
+} 
